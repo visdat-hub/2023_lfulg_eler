@@ -1,0 +1,197 @@
+[{
+	"id_area": 1,
+	"name": "Raster",
+	"fileSuffix": "nc",
+	"dtype": "byte",
+	"decimals": 0,
+	"nodata": 0
+}, {
+	"id_area": 4,
+	"name": "Landesdirektion",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 5,
+	"name": "Kreise",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 6,
+	"name": "Gemeinde",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 7,
+	"name": "OWK 2015",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 8,
+	"name": "GWK 2015",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 9,
+	"name": "Wirtschaftsgebiet",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 10,
+	"name": "Flussgebietseinheit",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 11,
+	"name": "Koordinierungsraum",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 12,
+	"name": "Landw. Vergleichsgebiet",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 13,
+	"name": "Betrachtungsraum",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 14,
+	"name": "Teilbearbeitungsgebiet",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 15,
+	"name": "Agrarstrukturgebiet",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 16,
+	"name": "OWK 2012",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 17,
+	"name": "OWK 2005",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 18,
+	"name": "Standgewässer",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 19,
+	"name": "Fließgewässer",
+	"fileSuffix": "nc",
+	"dtype": "int16",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 21,
+	"name": "Feldblock V1",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 22,
+	"name": "OWK 2021 alt",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 24,
+	"name": "Rote Feldblöcke GW-Nitrat-ÜS",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 25,
+	"name": "Feldblock",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 26,
+	"name": "OWK 2021",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 27,
+	"name": "LTV Gebiete",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 28,
+	"name": "DIFGA H1 2.0",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 29,
+	"name": "DIFGA H2 2.0",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 30,
+	"name": "DIFGA H3 2.0",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 31,
+	"name": "DIFGA H4 2.0",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}, {
+	"id_area": 32,
+	"name": "FB_ELER",
+	"fileSuffix": "nc",
+	"dtype": "int32",
+	"decimals": 0,
+	"nodata": -9999
+}]

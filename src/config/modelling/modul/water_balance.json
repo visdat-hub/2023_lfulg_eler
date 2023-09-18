@@ -1,0 +1,1562 @@
+[
+{"draenflaeche":[{"idbt":1,"bt":"F#","value":0},
+{"idbt":2,"bt":"O#","value":0},
+{"idbt":3,"bt":"RN","value":0},
+{"idbt":4,"bt":"RQ","value":0},
+{"idbt":5,"bt":"T#","value":0},
+{"idbt":6,"bt":"P#","value":0},
+{"idbt":7,"bt":"RR","value":0},
+{"idbt":8,"bt":"RZ","value":0},
+{"idbt":9,"bt":"D#","value":0},
+{"idbt":10,"bt":"B#","value":0},
+{"idbt":11,"bt":"PP-BB","value":0},
+{"idbt":12,"bt":"L#","value":0},
+{"idbt":13,"bt":"C#","value":0},
+{"idbt":14,"bt":"Y#","value":0},
+{"idbt":15,"bt":"SS-##","value":50},
+{"idbt":16,"bt":"GG-##","value":10},
+{"idbt":17,"bt":"A#","value":10},
+{"idbt":18,"bt":"S#","value":50},
+{"idbt":19,"bt":"G#","value":10},
+{"idbt":20,"bt":"HN","value":10},
+{"idbt":21,"bt":"HH","value":10},
+{"idbt":22,"bt":"J#","value":0},
+{"idbt":23,"bt":"UA","value":null}]},
+{"exposure_quotient":[{"idexposition":7,"min":15.0,"max":20.0,"value":1},
+{"idexposition":7,"min":10.0,"max":15.0,"value":1},
+{"idexposition":7,"min":5.0,"max":10.0,"value":1},
+{"idexposition":7,"min":2.0,"max":5.0,"value":1},
+{"idexposition":7,"min":1.0,"max":2.0,"value":1},
+{"idexposition":7,"min":0.0,"max":1.0,"value":1},
+{"idexposition":6,"min":20.0,"max":90.0,"value":0.75},
+{"idexposition":6,"min":15.0,"max":20.0,"value":0.75},
+{"idexposition":6,"min":10.0,"max":15.0,"value":0.81},
+{"idexposition":6,"min":5.0,"max":10.0,"value":0.9},
+{"idexposition":6,"min":2.0,"max":5.0,"value":0.95},
+{"idexposition":6,"min":1.0,"max":2.0,"value":0.98},
+{"idexposition":6,"min":0.0,"max":1.0,"value":1},
+{"idexposition":5,"min":20.0,"max":90.0,"value":0.75},
+{"idexposition":5,"min":15.0,"max":20.0,"value":0.75},
+{"idexposition":5,"min":10.0,"max":15.0,"value":0.81},
+{"idexposition":5,"min":5.0,"max":10.0,"value":0.9},
+{"idexposition":5,"min":2.0,"max":5.0,"value":0.95},
+{"idexposition":5,"min":1.0,"max":2.0,"value":0.98},
+{"idexposition":5,"min":0.0,"max":1.0,"value":1},
+{"idexposition":4,"min":15.0,"max":20.0,"value":0.72},
+{"idexposition":4,"min":20.0,"max":90.0,"value":0.72},
+{"idexposition":4,"min":10.0,"max":15.0,"value":0.79},
+{"idexposition":4,"min":5.0,"max":10.0,"value":0.89},
+{"idexposition":4,"min":2.0,"max":5.0,"value":0.94},
+{"idexposition":4,"min":1.0,"max":2.0,"value":0.97},
+{"idexposition":4,"min":0.0,"max":1.0,"value":1},
+{"idexposition":3,"min":20.0,"max":90.0,"value":1.23},
+{"idexposition":3,"min":15.0,"max":20.0,"value":1.23},
+{"idexposition":3,"min":10.0,"max":15.0,"value":1.18},
+{"idexposition":3,"min":5.0,"max":10.0,"value":1.09},
+{"idexposition":3,"min":2.0,"max":5.0,"value":1.05},
+{"idexposition":3,"min":1.0,"max":2.0,"value":1.02},
+{"idexposition":3,"min":0.0,"max":1.0,"value":1},
+{"idexposition":2,"min":20.0,"max":90.0,"value":1.23},
+{"idexposition":2,"min":15.0,"max":20.0,"value":1.23},
+{"idexposition":2,"min":10.0,"max":15.0,"value":1.18},
+{"idexposition":2,"min":5.0,"max":10.0,"value":1.09},
+{"idexposition":2,"min":2.0,"max":5.0,"value":1.05},
+{"idexposition":2,"min":1.0,"max":2.0,"value":1.02},
+{"idexposition":2,"min":0.0,"max":1.0,"value":1},
+{"idexposition":1,"min":20.0,"max":90.0,"value":1.32},
+{"idexposition":1,"min":15.0,"max":20.0,"value":1.32},
+{"idexposition":1,"min":10.0,"max":15.0,"value":1.2},
+{"idexposition":1,"min":5.0,"max":10.0,"value":1.13},
+{"idexposition":1,"min":2.0,"max":5.0,"value":1.06},
+{"idexposition":1,"min":1.0,"max":2.0,"value":1.03},
+{"idexposition":1,"min":0.0,"max":1.0,"value":1},
+{"idexposition":7,"min":20.0,"max":90.0,"value":1},
+{"idexposition":8,"min":0.0,"max":1.0,"value":1},
+{"idexposition":8,"min":1.0,"max":2.0,"value":1},
+{"idexposition":8,"min":2.0,"max":5.0,"value":1},
+{"idexposition":8,"min":5.0,"max":10.0,"value":1},
+{"idexposition":8,"min":10.0,"max":15.0,"value":1},
+{"idexposition":8,"min":15.0,"max":20.0,"value":1},
+{"idexposition":8,"min":20.0,"max":90.0,"value":1},
+{"idexposition":9,"min":1.0,"max":2.0,"value":1},
+{"idexposition":9,"min":0.0,"max":1.0,"value":1},
+{"idexposition":9,"min":2.0,"max":5.0,"value":1},
+{"idexposition":9,"min":5.0,"max":10.0,"value":1},
+{"idexposition":9,"min":10.0,"max":15.0,"value":1},
+{"idexposition":9,"min":15.0,"max":20.0,"value":1},
+{"idexposition":9,"min":20.0,"max":90.0,"value":1}]},
+{"runoff_quotient":[{"hydromorphology":1,"min":0,"max":1,"value":1.1},
+{"hydromorphology":1,"min":1.0,"max":2.0,"value":1.2},
+{"hydromorphology":1,"min":2.0,"max":5.0,"value":1.4},
+{"hydromorphology":1,"min":5.0,"max":10.0,"value":1.6},
+{"hydromorphology":1,"min":10.0,"max":15.0,"value":1.8},
+{"hydromorphology":1,"min":15.0,"max":20.0,"value":2},
+{"hydromorphology":1,"min":20.0,"max":90.0,"value":2.3},
+{"hydromorphology":2,"min":0.0,"max":1.0,"value":2},
+{"hydromorphology":2,"min":1.0,"max":2.0,"value":2},
+{"hydromorphology":2,"min":2.0,"max":5.0,"value":2},
+{"hydromorphology":2,"min":5.0,"max":10.0,"value":2},
+{"hydromorphology":2,"min":10.0,"max":15.0,"value":2.1},
+{"hydromorphology":2,"min":15.0,"max":20.0,"value":2.3},
+{"hydromorphology":2,"min":20.0,"max":90.0,"value":2.3},
+{"hydromorphology":3,"min":0.0,"max":1.0,"value":2.5},
+{"hydromorphology":3,"min":1.0,"max":2.0,"value":2.5},
+{"hydromorphology":3,"min":2.0,"max":5.0,"value":2.5},
+{"hydromorphology":3,"min":5.0,"max":10.0,"value":2.5},
+{"hydromorphology":3,"min":10.0,"max":15.0,"value":2.5},
+{"hydromorphology":3,"min":15.0,"max":20.0,"value":2.5},
+{"hydromorphology":3,"min":20.0,"max":90.0,"value":2.5}]},
+{"cn_value":[{"idbag":1,"idhn":2,"bag":"ss","hn":"Gruenland","cn_wert":39},
+{"idbag":2,"idhn":2,"bag":"ls","hn":"Gruenland","cn_wert":61},
+{"idbag":4,"idhn":2,"bag":"sl","hn":"Gruenland","cn_wert":74},
+{"idbag":3,"idhn":2,"bag":"us","hn":"Gruenland","cn_wert":61},
+{"idbag":5,"idhn":2,"bag":"su","hn":"Gruenland","cn_wert":61},
+{"idbag":6,"idhn":2,"bag":"lu","hn":"Gruenland","cn_wert":61},
+{"idbag":7,"idhn":2,"bag":"ll","hn":"Gruenland","cn_wert":74},
+{"idbag":8,"idhn":2,"bag":"tu","hn":"Gruenland","cn_wert":61},
+{"idbag":9,"idhn":2,"bag":"tl","hn":"Gruenland","cn_wert":74},
+{"idbag":10,"idhn":2,"bag":"ut","hn":"Gruenland","cn_wert":80},
+{"idbag":11,"idhn":2,"bag":"lt","hn":"Gruenland","cn_wert":80},
+{"idbag":12,"idhn":2,"bag":"Hn","hn":"Gruenland","cn_wert":80},
+{"idbag":13,"idhn":2,"bag":"Hh","hn":"Gruenland","cn_wert":80},
+{"idbag":14,"idhn":2,"bag":"F#","hn":"Gruenland","cn_wert":null},
+{"idbag":1,"idhn":3,"bag":"ss","hn":"Obstbau","cn_wert":36},
+{"idbag":2,"idhn":3,"bag":"ls","hn":"Obstbau","cn_wert":60},
+{"idbag":3,"idhn":3,"bag":"us","hn":"Obstbau","cn_wert":60},
+{"idbag":4,"idhn":3,"bag":"sl","hn":"Obstbau","cn_wert":73},
+{"idbag":5,"idhn":3,"bag":"su","hn":"Obstbau","cn_wert":60},
+{"idbag":6,"idhn":3,"bag":"lu","hn":"Obstbau","cn_wert":60},
+{"idbag":7,"idhn":3,"bag":"ll","hn":"Obstbau","cn_wert":73},
+{"idbag":8,"idhn":3,"bag":"tu","hn":"Obstbau","cn_wert":60},
+{"idbag":9,"idhn":3,"bag":"tl","hn":"Obstbau","cn_wert":73},
+{"idbag":10,"idhn":3,"bag":"ut","hn":"Obstbau","cn_wert":79},
+{"idbag":11,"idhn":3,"bag":"lt","hn":"Obstbau","cn_wert":79},
+{"idbag":12,"idhn":3,"bag":"Hn","hn":"Obstbau","cn_wert":79},
+{"idbag":13,"idhn":3,"bag":"Hh","hn":"Obstbau","cn_wert":79},
+{"idbag":14,"idhn":3,"bag":"F#","hn":"Obstbau","cn_wert":null},
+{"idbag":1,"idhn":4,"bag":"ss","hn":"Weinbau","cn_wert":64},
+{"idbag":2,"idhn":4,"bag":"ls","hn":"Weinbau","cn_wert":73},
+{"idbag":3,"idhn":4,"bag":"us","hn":"Weinbau","cn_wert":73},
+{"idbag":4,"idhn":4,"bag":"sl","hn":"Weinbau","cn_wert":79},
+{"idbag":5,"idhn":4,"bag":"su","hn":"Weinbau","cn_wert":73},
+{"idbag":6,"idhn":4,"bag":"lu","hn":"Weinbau","cn_wert":73},
+{"idbag":7,"idhn":4,"bag":"ll","hn":"Weinbau","cn_wert":79},
+{"idbag":8,"idhn":4,"bag":"tu","hn":"Weinbau","cn_wert":73},
+{"idbag":9,"idhn":4,"bag":"tl","hn":"Weinbau","cn_wert":79},
+{"idbag":10,"idhn":4,"bag":"ut","hn":"Weinbau","cn_wert":82},
+{"idbag":11,"idhn":4,"bag":"lt","hn":"Weinbau","cn_wert":82},
+{"idbag":12,"idhn":4,"bag":"Hn","hn":"Weinbau","cn_wert":82},
+{"idbag":13,"idhn":4,"bag":"Hh","hn":"Weinbau","cn_wert":82},
+{"idbag":14,"idhn":4,"bag":"F#","hn":"Weinbau","cn_wert":null},
+{"idbag":1,"idhn":5,"bag":"ss","hn":"Nadelwald","cn_wert":36},
+{"idbag":2,"idhn":5,"bag":"ls","hn":"Nadelwald","cn_wert":60},
+{"idbag":3,"idhn":5,"bag":"us","hn":"Nadelwald","cn_wert":60},
+{"idbag":4,"idhn":5,"bag":"sl","hn":"Nadelwald","cn_wert":73},
+{"idbag":5,"idhn":5,"bag":"su","hn":"Nadelwald","cn_wert":60},
+{"idbag":6,"idhn":5,"bag":"lu","hn":"Nadelwald","cn_wert":60},
+{"idbag":7,"idhn":5,"bag":"ll","hn":"Nadelwald","cn_wert":73},
+{"idbag":8,"idhn":5,"bag":"tu","hn":"Nadelwald","cn_wert":60},
+{"idbag":9,"idhn":5,"bag":"tl","hn":"Nadelwald","cn_wert":73},
+{"idbag":10,"idhn":5,"bag":"ut","hn":"Nadelwald","cn_wert":79},
+{"idbag":11,"idhn":5,"bag":"lt","hn":"Nadelwald","cn_wert":79},
+{"idbag":12,"idhn":5,"bag":"Hn","hn":"Nadelwald","cn_wert":79},
+{"idbag":13,"idhn":5,"bag":"Hh","hn":"Nadelwald","cn_wert":79},
+{"idbag":14,"idhn":5,"bag":"F#","hn":"Nadelwald","cn_wert":null},
+{"idbag":1,"idhn":6,"bag":"ss","hn":"Laubwald","cn_wert":36},
+{"idbag":2,"idhn":6,"bag":"ls","hn":"Laubwald","cn_wert":60},
+{"idbag":3,"idhn":6,"bag":"us","hn":"Laubwald","cn_wert":60},
+{"idbag":4,"idhn":6,"bag":"sl","hn":"Laubwald","cn_wert":73},
+{"idbag":5,"idhn":6,"bag":"su","hn":"Laubwald","cn_wert":60},
+{"idbag":6,"idhn":6,"bag":"lu","hn":"Laubwald","cn_wert":60},
+{"idbag":7,"idhn":6,"bag":"ll","hn":"Laubwald","cn_wert":73},
+{"idbag":8,"idhn":6,"bag":"tu","hn":"Laubwald","cn_wert":60},
+{"idbag":9,"idhn":6,"bag":"tl","hn":"Laubwald","cn_wert":73},
+{"idbag":10,"idhn":6,"bag":"ut","hn":"Laubwald","cn_wert":79},
+{"idbag":11,"idhn":6,"bag":"lt","hn":"Laubwald","cn_wert":79},
+{"idbag":12,"idhn":6,"bag":"Hn","hn":"Laubwald","cn_wert":79},
+{"idbag":13,"idhn":6,"bag":"Hh","hn":"Laubwald","cn_wert":79},
+{"idbag":14,"idhn":6,"bag":"F#","hn":"Laubwald","cn_wert":null},
+{"idbag":1,"idhn":9,"bag":"ss","hn":"Devastierung","cn_wert":80},
+{"idbag":2,"idhn":9,"bag":"ls","hn":"Devastierung","cn_wert":80},
+{"idbag":3,"idhn":9,"bag":"us","hn":"Devastierung","cn_wert":80},
+{"idbag":4,"idhn":9,"bag":"sl","hn":"Devastierung","cn_wert":80},
+{"idbag":5,"idhn":9,"bag":"su","hn":"Devastierung","cn_wert":80},
+{"idbag":6,"idhn":9,"bag":"lu","hn":"Devastierung","cn_wert":80},
+{"idbag":7,"idhn":9,"bag":"ll","hn":"Devastierung","cn_wert":80},
+{"idbag":8,"idhn":9,"bag":"tu","hn":"Devastierung","cn_wert":80},
+{"idbag":9,"idhn":9,"bag":"tl","hn":"Devastierung","cn_wert":80},
+{"idbag":10,"idhn":9,"bag":"ut","hn":"Devastierung","cn_wert":80},
+{"idbag":11,"idhn":9,"bag":"lt","hn":"Devastierung","cn_wert":80},
+{"idbag":12,"idhn":9,"bag":"Hn","hn":"Devastierung","cn_wert":80},
+{"idbag":13,"idhn":9,"bag":"Hh","hn":"Devastierung","cn_wert":80},
+{"idbag":14,"idhn":9,"bag":"F#","hn":"Devastierung","cn_wert":null}]},
+{"nfkwe":[{"idbag":1,"we":5.5,"nfk":11},
+{"idbag":2,"we":7.5,"nfk":16.52},
+{"idbag":3,"we":7.5,"nfk":23.28},
+{"idbag":5,"we":10,"nfk":25.82},
+{"idbag":6,"we":11,"nfk":24.02},
+{"idbag":8,"we":11,"nfk":18.31},
+{"idbag":4,"we":9,"nfk":17.81},
+{"idbag":7,"we":10.5,"nfk":14.51},
+{"idbag":9,"we":10.5,"nfk":11.99},
+{"idbag":10,"we":10.5,"nfk":12.21},
+{"idbag":11,"we":10.5,"nfk":10.21},
+{"idbag":12,"we":4,"nfk":60.95},
+{"idbag":13,"we":2,"nfk":53.95}]},
+{"kapillaraufstieg":[{"idhn":1,"idbt":16,"idbag":1,"ka":0,"kr":0},
+{"idhn":1,"idbt":16,"idbag":2,"ka":78,"kr":2},
+{"idhn":1,"idbt":16,"idbag":3,"ka":204,"kr":4},
+{"idhn":1,"idbt":16,"idbag":5,"ka":216,"kr":4},
+{"idhn":1,"idbt":16,"idbag":6,"ka":300,"kr":5},
+{"idhn":1,"idbt":16,"idbag":8,"ka":88,"kr":2},
+{"idhn":1,"idbt":16,"idbag":4,"ka":178.5,"kr":3.5},
+{"idhn":1,"idbt":16,"idbag":7,"ka":144,"kr":3},
+{"idhn":1,"idbt":16,"idbag":9,"ka":300,"kr":5},
+{"idhn":1,"idbt":16,"idbag":10,"ka":31,"kr":1},
+{"idhn":1,"idbt":16,"idbag":11,"ka":15,"kr":0.5},
+{"idhn":1,"idbt":16,"idbag":12,"ka":0,"kr":0},
+{"idhn":1,"idbt":16,"idbag":13,"ka":0,"kr":0},
+{"idhn":1,"idbt":19,"idbag":1,"ka":95,"kr":2.5},
+{"idhn":1,"idbt":19,"idbag":2,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":3,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":5,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":6,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":8,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":4,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":7,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":9,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":10,"ka":300,"kr":5},
+{"idhn":1,"idbt":19,"idbag":11,"ka":135,"kr":3},
+{"idhn":1,"idbt":19,"idbag":12,"ka":40,"kr":1},
+{"idhn":1,"idbt":19,"idbag":13,"ka":30,"kr":1},
+{"idhn":1,"idbt":21,"idbag":1,"ka":95,"kr":2.5},
+{"idhn":1,"idbt":21,"idbag":2,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":3,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":5,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":6,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":8,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":4,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":7,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":9,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":10,"ka":300,"kr":5},
+{"idhn":1,"idbt":21,"idbag":11,"ka":135,"kr":3},
+{"idhn":1,"idbt":21,"idbag":12,"ka":40,"kr":1},
+{"idhn":1,"idbt":21,"idbag":13,"ka":30,"kr":1},
+{"idhn":1,"idbt":20,"idbag":1,"ka":95,"kr":2.5},
+{"idhn":1,"idbt":20,"idbag":2,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":3,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":5,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":6,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":8,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":4,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":7,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":9,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":10,"ka":300,"kr":5},
+{"idhn":1,"idbt":20,"idbag":11,"ka":135,"kr":3},
+{"idhn":1,"idbt":20,"idbag":12,"ka":40,"kr":1},
+{"idhn":1,"idbt":20,"idbag":13,"ka":30,"kr":1},
+{"idhn":1,"idbt":22,"idbag":1,"ka":95,"kr":2.5},
+{"idhn":1,"idbt":22,"idbag":2,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":3,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":5,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":6,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":8,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":4,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":7,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":9,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":10,"ka":300,"kr":5},
+{"idhn":1,"idbt":22,"idbag":11,"ka":135,"kr":3},
+{"idhn":1,"idbt":22,"idbag":12,"ka":40,"kr":1},
+{"idhn":1,"idbt":22,"idbag":13,"ka":30,"kr":1},
+{"idhn":2,"idbt":16,"idbag":1,"ka":0,"kr":0},
+{"idhn":2,"idbt":16,"idbag":2,"ka":130,"kr":2},
+{"idhn":2,"idbt":16,"idbag":3,"ka":428,"kr":4},
+{"idhn":2,"idbt":16,"idbag":5,"ka":464,"kr":4},
+{"idhn":2,"idbt":16,"idbag":6,"ka":600,"kr":5},
+{"idhn":2,"idbt":16,"idbag":8,"ka":148,"kr":2},
+{"idhn":2,"idbt":16,"idbag":4,"ka":336,"kr":3.5},
+{"idhn":2,"idbt":16,"idbag":7,"ka":255,"kr":3},
+{"idhn":2,"idbt":16,"idbag":9,"ka":600,"kr":5},
+{"idhn":2,"idbt":16,"idbag":10,"ka":46,"kr":1},
+{"idhn":2,"idbt":16,"idbag":11,"ka":44,"kr":0.5},
+{"idhn":2,"idbt":16,"idbag":12,"ka":0,"kr":0},
+{"idhn":2,"idbt":16,"idbag":13,"ka":0,"kr":0},
+{"idhn":2,"idbt":19,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":2,"idbt":19,"idbag":2,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":3,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":5,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":6,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":8,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":4,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":7,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":9,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":10,"ka":600,"kr":5},
+{"idhn":2,"idbt":19,"idbag":11,"ka":243,"kr":3},
+{"idhn":2,"idbt":19,"idbag":12,"ka":60,"kr":1},
+{"idhn":2,"idbt":19,"idbag":13,"ka":44,"kr":1},
+{"idhn":2,"idbt":21,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":2,"idbt":21,"idbag":2,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":3,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":5,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":6,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":8,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":4,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":7,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":9,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":10,"ka":600,"kr":5},
+{"idhn":2,"idbt":21,"idbag":11,"ka":243,"kr":3},
+{"idhn":2,"idbt":21,"idbag":12,"ka":60,"kr":1},
+{"idhn":2,"idbt":21,"idbag":13,"ka":44,"kr":1},
+{"idhn":2,"idbt":20,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":2,"idbt":20,"idbag":2,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":3,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":5,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":6,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":8,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":4,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":7,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":9,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":10,"ka":600,"kr":5},
+{"idhn":2,"idbt":20,"idbag":11,"ka":243,"kr":3},
+{"idhn":2,"idbt":20,"idbag":12,"ka":60,"kr":1},
+{"idhn":2,"idbt":20,"idbag":13,"ka":44,"kr":1},
+{"idhn":2,"idbt":22,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":2,"idbt":22,"idbag":2,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":3,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":5,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":6,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":8,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":4,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":7,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":9,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":10,"ka":600,"kr":5},
+{"idhn":2,"idbt":22,"idbag":11,"ka":243,"kr":3},
+{"idhn":2,"idbt":22,"idbag":12,"ka":60,"kr":1},
+{"idhn":2,"idbt":22,"idbag":13,"ka":44,"kr":1},
+{"idhn":5,"idbt":16,"idbag":1,"ka":0,"kr":0},
+{"idhn":5,"idbt":16,"idbag":2,"ka":130,"kr":2},
+{"idhn":5,"idbt":16,"idbag":3,"ka":428,"kr":4},
+{"idhn":5,"idbt":16,"idbag":5,"ka":464,"kr":4},
+{"idhn":5,"idbt":16,"idbag":6,"ka":600,"kr":5},
+{"idhn":5,"idbt":16,"idbag":8,"ka":148,"kr":2},
+{"idhn":5,"idbt":16,"idbag":4,"ka":336,"kr":3.5},
+{"idhn":5,"idbt":16,"idbag":7,"ka":255,"kr":3},
+{"idhn":5,"idbt":16,"idbag":9,"ka":600,"kr":5},
+{"idhn":5,"idbt":16,"idbag":10,"ka":46,"kr":1},
+{"idhn":5,"idbt":16,"idbag":11,"ka":44,"kr":0.5},
+{"idhn":5,"idbt":16,"idbag":12,"ka":0,"kr":0},
+{"idhn":5,"idbt":16,"idbag":13,"ka":0,"kr":0},
+{"idhn":5,"idbt":19,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":5,"idbt":19,"idbag":2,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":3,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":5,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":6,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":8,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":4,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":7,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":9,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":10,"ka":600,"kr":5},
+{"idhn":5,"idbt":19,"idbag":11,"ka":243,"kr":3},
+{"idhn":5,"idbt":19,"idbag":12,"ka":60,"kr":1},
+{"idhn":5,"idbt":19,"idbag":13,"ka":44,"kr":1},
+{"idhn":5,"idbt":21,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":5,"idbt":21,"idbag":2,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":3,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":5,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":6,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":8,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":4,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":7,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":9,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":10,"ka":600,"kr":5},
+{"idhn":5,"idbt":21,"idbag":11,"ka":243,"kr":3},
+{"idhn":5,"idbt":21,"idbag":12,"ka":60,"kr":1},
+{"idhn":5,"idbt":21,"idbag":13,"ka":44,"kr":1},
+{"idhn":5,"idbt":20,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":5,"idbt":20,"idbag":2,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":3,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":5,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":6,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":8,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":4,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":7,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":9,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":10,"ka":600,"kr":5},
+{"idhn":5,"idbt":20,"idbag":11,"ka":243,"kr":3},
+{"idhn":5,"idbt":20,"idbag":12,"ka":60,"kr":1},
+{"idhn":5,"idbt":20,"idbag":13,"ka":44,"kr":1},
+{"idhn":5,"idbt":22,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":5,"idbt":22,"idbag":2,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":3,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":5,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":6,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":8,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":4,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":7,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":9,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":10,"ka":600,"kr":5},
+{"idhn":5,"idbt":22,"idbag":11,"ka":243,"kr":3},
+{"idhn":5,"idbt":22,"idbag":12,"ka":60,"kr":1},
+{"idhn":5,"idbt":22,"idbag":13,"ka":44,"kr":1},
+{"idhn":6,"idbt":16,"idbag":1,"ka":0,"kr":0},
+{"idhn":6,"idbt":16,"idbag":2,"ka":130,"kr":2},
+{"idhn":6,"idbt":16,"idbag":3,"ka":428,"kr":4},
+{"idhn":6,"idbt":16,"idbag":5,"ka":464,"kr":4},
+{"idhn":6,"idbt":16,"idbag":6,"ka":600,"kr":5},
+{"idhn":6,"idbt":16,"idbag":8,"ka":148,"kr":2},
+{"idhn":6,"idbt":16,"idbag":4,"ka":336,"kr":3.5},
+{"idhn":6,"idbt":16,"idbag":7,"ka":255,"kr":3},
+{"idhn":6,"idbt":16,"idbag":9,"ka":600,"kr":5},
+{"idhn":6,"idbt":16,"idbag":10,"ka":46,"kr":1},
+{"idhn":6,"idbt":16,"idbag":11,"ka":44,"kr":0.5},
+{"idhn":6,"idbt":16,"idbag":12,"ka":0,"kr":0},
+{"idhn":6,"idbt":16,"idbag":13,"ka":0,"kr":0},
+{"idhn":6,"idbt":19,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":6,"idbt":19,"idbag":2,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":3,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":5,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":6,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":8,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":4,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":7,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":9,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":10,"ka":600,"kr":5},
+{"idhn":6,"idbt":19,"idbag":11,"ka":243,"kr":3},
+{"idhn":6,"idbt":19,"idbag":12,"ka":60,"kr":1},
+{"idhn":6,"idbt":19,"idbag":13,"ka":44,"kr":1},
+{"idhn":6,"idbt":21,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":6,"idbt":21,"idbag":2,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":3,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":5,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":6,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":8,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":4,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":7,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":9,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":10,"ka":600,"kr":5},
+{"idhn":6,"idbt":21,"idbag":11,"ka":243,"kr":3},
+{"idhn":6,"idbt":21,"idbag":12,"ka":60,"kr":1},
+{"idhn":6,"idbt":21,"idbag":13,"ka":44,"kr":1},
+{"idhn":6,"idbt":20,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":6,"idbt":20,"idbag":2,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":3,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":5,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":6,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":8,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":4,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":7,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":9,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":10,"ka":600,"kr":5},
+{"idhn":6,"idbt":20,"idbag":11,"ka":243,"kr":3},
+{"idhn":6,"idbt":20,"idbag":12,"ka":60,"kr":1},
+{"idhn":6,"idbt":20,"idbag":13,"ka":44,"kr":1},
+{"idhn":6,"idbt":22,"idbag":1,"ka":167.5,"kr":2.5},
+{"idhn":6,"idbt":22,"idbag":2,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":3,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":5,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":6,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":8,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":4,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":7,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":9,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":10,"ka":600,"kr":5},
+{"idhn":6,"idbt":22,"idbag":11,"ka":243,"kr":3},
+{"idhn":6,"idbt":22,"idbag":12,"ka":60,"kr":1},
+{"idhn":6,"idbt":22,"idbag":13,"ka":44,"kr":1}]},
+
+{"kap_aufstiegsrate":[{"idbag":13,"za":17,"kr":0,"za_min":14,"za_max":17},
+{"idbag":14,"za":17,"kr":0,"za_min":14,"za_max":17},
+{"idbag":1,"za":17,"kr":0,"za_min":14,"za_max":17},
+{"idbag":2,"za":17,"kr":0.0125,"za_min":14,"za_max":17},
+{"idbag":3,"za":17,"kr":0.1,"za_min":14,"za_max":17},
+{"idbag":4,"za":17,"kr":0.05,"za_min":14,"za_max":17},
+{"idbag":5,"za":17,"kr":0.5,"za_min":14,"za_max":17},
+{"idbag":6,"za":17,"kr":0.3,"za_min":14,"za_max":17},
+{"idbag":7,"za":17,"kr":0,"za_min":14,"za_max":17},
+{"idbag":8,"za":17,"kr":0.2,"za_min":14,"za_max":17},
+{"idbag":9,"za":17,"kr":0,"za_min":14,"za_max":17},
+{"idbag":10,"za":17,"kr":0.0666666666666667,"za_min":14,"za_max":17},
+{"idbag":11,"za":17,"kr":0.1,"za_min":14,"za_max":17},
+{"idbag":12,"za":17,"kr":0,"za_min":14,"za_max":17},
+{"idbag":1,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":2,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":3,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":4,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":5,"za":20,"kr":0.15,"za_min":17,"za_max":20},
+{"idbag":6,"za":20,"kr":0.1,"za_min":17,"za_max":20},
+{"idbag":7,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":8,"za":20,"kr":0.05,"za_min":17,"za_max":20},
+{"idbag":9,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":10,"za":20,"kr":0.0166666666666667,"za_min":17,"za_max":20},
+{"idbag":11,"za":20,"kr":0.05,"za_min":17,"za_max":20},
+{"idbag":12,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":13,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":14,"za":20,"kr":0,"za_min":17,"za_max":20},
+{"idbag":5,"za":9,"kr":5,"za_min":8,"za_max":9},
+{"idbag":7,"za":9,"kr":0.45,"za_min":8,"za_max":9},
+{"idbag":9,"za":9,"kr":0.2,"za_min":8,"za_max":9},
+{"idbag":10,"za":9,"kr":0.833333333333333,"za_min":8,"za_max":9},
+{"idbag":11,"za":9,"kr":0.3,"za_min":8,"za_max":9},
+{"idbag":12,"za":9,"kr":0.1,"za_min":8,"za_max":9},
+{"idbag":13,"za":9,"kr":0.2,"za_min":8,"za_max":9},
+{"idbag":14,"za":9,"kr":0,"za_min":8,"za_max":9},
+{"idbag":8,"za":9,"kr":2,"za_min":8,"za_max":9},
+{"idbag":6,"za":9,"kr":3,"za_min":8,"za_max":9},
+{"idbag":1,"za":9,"kr":0.2,"za_min":8,"za_max":9},
+{"idbag":2,"za":9,"kr":0.9,"za_min":8,"za_max":9},
+{"idbag":3,"za":9,"kr":2.25,"za_min":8,"za_max":9},
+{"idbag":4,"za":9,"kr":1.46666666666667,"za_min":8,"za_max":9},
+{"idbag":1,"za":10,"kr":0.15,"za_min":9,"za_max":10},
+{"idbag":2,"za":10,"kr":0.5,"za_min":9,"za_max":10},
+{"idbag":3,"za":10,"kr":1.4,"za_min":9,"za_max":10},
+{"idbag":4,"za":10,"kr":0.933333333333333,"za_min":9,"za_max":10},
+{"idbag":5,"za":10,"kr":3.5,"za_min":9,"za_max":10},
+{"idbag":6,"za":10,"kr":2.1,"za_min":9,"za_max":10},
+{"idbag":7,"za":10,"kr":0.275,"za_min":9,"za_max":10},
+{"idbag":8,"za":10,"kr":1.5,"za_min":9,"za_max":10},
+{"idbag":9,"za":10,"kr":0.15,"za_min":9,"za_max":10},
+{"idbag":10,"za":10,"kr":0.616666666666667,"za_min":9,"za_max":10},
+{"idbag":11,"za":10,"kr":0.22,"za_min":9,"za_max":10},
+{"idbag":12,"za":10,"kr":0.1,"za_min":9,"za_max":10},
+{"idbag":13,"za":10,"kr":0.2,"za_min":9,"za_max":10},
+{"idbag":14,"za":10,"kr":0,"za_min":9,"za_max":10},
+{"idbag":1,"za":12,"kr":0.05,"za_min":10,"za_max":12},
+{"idbag":2,"za":12,"kr":0.15,"za_min":10,"za_max":12},
+{"idbag":3,"za":12,"kr":0.65,"za_min":10,"za_max":12},
+{"idbag":4,"za":12,"kr":0.433333333333333,"za_min":10,"za_max":12},
+{"idbag":6,"za":12,"kr":1.5,"za_min":10,"za_max":12},
+{"idbag":7,"za":12,"kr":0.1375,"za_min":10,"za_max":12},
+{"idbag":8,"za":12,"kr":0.8,"za_min":10,"za_max":12},
+{"idbag":9,"za":12,"kr":0.05,"za_min":10,"za_max":12},
+{"idbag":10,"za":12,"kr":0.316666666666667,"za_min":10,"za_max":12},
+{"idbag":11,"za":12,"kr":0.17,"za_min":10,"za_max":12},
+{"idbag":12,"za":12,"kr":0,"za_min":10,"za_max":12},
+{"idbag":13,"za":12,"kr":0.1,"za_min":10,"za_max":12},
+{"idbag":14,"za":12,"kr":0,"za_min":10,"za_max":12},
+{"idbag":5,"za":12,"kr":2,"za_min":10,"za_max":12},
+{"idbag":1,"za":14,"kr":0,"za_min":12,"za_max":14},
+{"idbag":2,"za":14,"kr":0.0625,"za_min":12,"za_max":14},
+{"idbag":3,"za":14,"kr":0.3,"za_min":12,"za_max":14},
+{"idbag":4,"za":14,"kr":0.2,"za_min":12,"za_max":14},
+{"idbag":5,"za":14,"kr":1,"za_min":12,"za_max":14},
+{"idbag":6,"za":14,"kr":0.7,"za_min":12,"za_max":14},
+{"idbag":7,"za":14,"kr":0.05,"za_min":12,"za_max":14},
+{"idbag":8,"za":14,"kr":0.4,"za_min":12,"za_max":14},
+{"idbag":9,"za":14,"kr":0,"za_min":12,"za_max":14},
+{"idbag":10,"za":14,"kr":0.15,"za_min":12,"za_max":14},
+{"idbag":11,"za":14,"kr":0.14,"za_min":12,"za_max":14},
+{"idbag":12,"za":14,"kr":0,"za_min":12,"za_max":14},
+{"idbag":13,"za":14,"kr":0,"za_min":12,"za_max":14},
+{"idbag":14,"za":14,"kr":0,"za_min":12,"za_max":14},
+{"idbag":12,"za":5,"kr":1.5,"za_min":4,"za_max":5},
+{"idbag":13,"za":5,"kr":1.3,"za_min":4,"za_max":5},
+{"idbag":14,"za":5,"kr":0,"za_min":4,"za_max":5},
+{"idbag":1,"za":5,"kr":4,"za_min":4,"za_max":5},
+{"idbag":1,"za":6,"kr":2.1,"za_min":5,"za_max":6},
+{"idbag":2,"za":6,"kr":4.625,"za_min":5,"za_max":6},
+{"idbag":3,"za":6,"kr":5,"za_min":5,"za_max":6},
+{"idbag":4,"za":6,"kr":3.66666666666667,"za_min":5,"za_max":6},
+{"idbag":5,"za":6,"kr":5,"za_min":5,"za_max":6},
+{"idbag":6,"za":6,"kr":5,"za_min":5,"za_max":6},
+{"idbag":7,"za":6,"kr":1.75,"za_min":5,"za_max":6},
+{"idbag":8,"za":6,"kr":4.5,"za_min":5,"za_max":6},
+{"idbag":9,"za":6,"kr":0.7,"za_min":5,"za_max":6},
+{"idbag":10,"za":6,"kr":2.06666666666667,"za_min":5,"za_max":6},
+{"idbag":11,"za":6,"kr":0.5,"za_min":5,"za_max":6},
+{"idbag":12,"za":6,"kr":0.8,"za_min":5,"za_max":6},
+{"idbag":13,"za":6,"kr":0.8,"za_min":5,"za_max":6},
+{"idbag":14,"za":6,"kr":0,"za_min":5,"za_max":6},
+{"idbag":1,"za":7,"kr":1,"za_min":6,"za_max":7},
+{"idbag":2,"za":7,"kr":2.75,"za_min":6,"za_max":7},
+{"idbag":3,"za":7,"kr":4.25,"za_min":6,"za_max":7},
+{"idbag":5,"za":7,"kr":5,"za_min":6,"za_max":7},
+{"idbag":6,"za":7,"kr":5,"za_min":6,"za_max":7},
+{"idbag":7,"za":7,"kr":1.15,"za_min":6,"za_max":7},
+{"idbag":8,"za":7,"kr":3.5,"za_min":6,"za_max":7},
+{"idbag":9,"za":7,"kr":0.5,"za_min":6,"za_max":7},
+{"idbag":10,"za":7,"kr":1.56666666666667,"za_min":6,"za_max":7},
+{"idbag":11,"za":7,"kr":0.4,"za_min":6,"za_max":7},
+{"idbag":12,"za":7,"kr":0.4,"za_min":6,"za_max":7},
+{"idbag":13,"za":7,"kr":0.4,"za_min":6,"za_max":7},
+{"idbag":14,"za":7,"kr":0,"za_min":6,"za_max":7},
+{"idbag":4,"za":7,"kr":3,"za_min":6,"za_max":7},
+{"idbag":1,"za":8,"kr":0.45,"za_min":7,"za_max":8},
+{"idbag":2,"za":8,"kr":1.625,"za_min":7,"za_max":8},
+{"idbag":3,"za":8,"kr":3.5,"za_min":7,"za_max":8},
+{"idbag":4,"za":8,"kr":2.33333333333333,"za_min":7,"za_max":8},
+{"idbag":5,"za":8,"kr":5,"za_min":7,"za_max":8},
+{"idbag":6,"za":8,"kr":4.5,"za_min":7,"za_max":8},
+{"idbag":7,"za":8,"kr":0.725,"za_min":7,"za_max":8},
+{"idbag":8,"za":8,"kr":2.5,"za_min":7,"za_max":8},
+{"idbag":9,"za":8,"kr":0.3,"za_min":7,"za_max":8},
+{"idbag":10,"za":8,"kr":1.1,"za_min":7,"za_max":8},
+{"idbag":11,"za":8,"kr":0.35,"za_min":7,"za_max":8},
+{"idbag":12,"za":8,"kr":0.2,"za_min":7,"za_max":8},
+{"idbag":13,"za":8,"kr":0.3,"za_min":7,"za_max":8},
+{"idbag":14,"za":8,"kr":0,"za_min":7,"za_max":8},
+{"idbag":11,"za":3,"kr":2,"za_min":2,"za_max":3},
+{"idbag":13,"za":4,"kr":2,"za_min":3,"za_max":4},
+{"idbag":13,"za":3,"kr":3,"za_min":2,"za_max":3},
+{"idbag":12,"za":4,"kr":3,"za_min":3,"za_max":4},
+{"idbag":11,"za":2,"kr":4,"za_min":0,"za_max":2},
+{"idbag":1,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":2,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":3,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":4,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":5,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":6,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":7,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":8,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":9,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":10,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":12,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":13,"za":2,"kr":5,"za_min":0,"za_max":2},
+{"idbag":14,"za":2,"kr":0,"za_min":0,"za_max":2},
+{"idbag":1,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":2,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":3,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":4,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":5,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":6,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":7,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":8,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":9,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":10,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":12,"za":3,"kr":5,"za_min":2,"za_max":3},
+{"idbag":14,"za":3,"kr":0,"za_min":2,"za_max":3},
+{"idbag":1,"za":4,"kr":5,"za_min":3,"za_max":4},
+{"idbag":2,"za":4,"kr":5,"za_min":3,"za_max":4},
+{"idbag":3,"za":4,"kr":5,"za_min":3,"za_max":4},
+{"idbag":4,"za":4,"kr":5,"za_min":3,"za_max":4},
+{"idbag":5,"za":4,"kr":5,"za_min":3,"za_max":4},
+{"idbag":6,"za":4,"kr":5,"za_min":3,"za_max":4},
+{"idbag":7,"za":4,"kr":4.75,"za_min":3,"za_max":4},
+{"idbag":8,"za":4,"kr":5,"za_min":3,"za_max":4},
+{"idbag":9,"za":4,"kr":2.5,"za_min":3,"za_max":4},
+{"idbag":10,"za":4,"kr":3.83333333333333,"za_min":3,"za_max":4},
+{"idbag":11,"za":4,"kr":1.1,"za_min":3,"za_max":4},
+{"idbag":14,"za":4,"kr":0,"za_min":3,"za_max":4},
+{"idbag":2,"za":5,"kr":5,"za_min":4,"za_max":5},
+{"idbag":3,"za":5,"kr":5,"za_min":4,"za_max":5},
+{"idbag":4,"za":5,"kr":5,"za_min":4,"za_max":5},
+{"idbag":5,"za":5,"kr":5,"za_min":4,"za_max":5},
+{"idbag":6,"za":5,"kr":5,"za_min":4,"za_max":5},
+{"idbag":7,"za":5,"kr":3.125,"za_min":4,"za_max":5},
+{"idbag":8,"za":5,"kr":5,"za_min":4,"za_max":5},
+{"idbag":9,"za":5,"kr":1.2,"za_min":4,"za_max":5},
+{"idbag":10,"za":5,"kr":2.73333333333333,"za_min":4,"za_max":5},
+{"idbag":11,"za":5,"kr":0.7,"za_min":4,"za_max":5}]},
+
+{"humusoberboden":
+
+[
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.3,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 1.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.8,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.9,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.3,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2.1,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.9,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2.1,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2.1,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2.1,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.9,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.9,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2.1,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 1.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 1.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 3,
+    "idbodenartgruppe": "NULL",
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 4,
+    "idbodenartgruppe": "NULL",
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2.1,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.4,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.5,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.4,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.6,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.6,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.8,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.8,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.8,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.8,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2.1,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.6,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 2,
+    "idbodenartgruppe": "NULL",
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 1,
+    "idbodenartgruppe": "NULL",
+    "humus_oberboden": 3,
+    "trd": 1.1
+  },
+  {
+    "idbodentyp": 6,
+    "idbodenartgruppe": "NULL",
+    "humus_oberboden": 1.3,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.2,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 21,
+    "idbodenartgruppe": "NULL",
+    "humus_oberboden": 30,
+    "trd": 0.5
+  },
+  {
+    "idbodentyp": 11,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.3,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 20,
+    "idbodenartgruppe": "NULL",
+    "humus_oberboden": 15,
+    "trd": 0.5
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.6,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 4,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.8,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 8,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 12,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 13,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.5,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.7,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.7,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.7,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 2.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 2.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 2.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.9,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.9,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 3,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 3,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 3,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.4,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.5,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.5,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.5,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 15,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.6,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.7,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.7,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.4,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.6,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.6,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 5,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.9,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 8,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 2.4,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.2,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.3,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.3,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.3,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 10,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 1.6,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 5,
+    "humus_oberboden": 1.7,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 9,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 10,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 16,
+    "idbodenartgruppe": 11,
+    "humus_oberboden": 2.2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.7,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 19,
+    "idbodenartgruppe": 3,
+    "humus_oberboden": 1.9,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 2,
+    "humus_oberboden": 1.5,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 17,
+    "idbodenartgruppe": 1,
+    "humus_oberboden": 1.5,
+    "trd": 1.35
+  },
+  {
+    "idbodentyp": 12,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 14,
+    "idbodenartgruppe": 6,
+    "humus_oberboden": 1.8,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 18,
+    "idbodenartgruppe": 7,
+    "humus_oberboden": 2.1,
+    "trd": 1.3
+  },
+  {
+    "idbodentyp": 7,
+    "idbodenartgruppe": "NULL",
+    "humus_oberboden": 3,
+    "trd": 1.3
+  }
+]
+}
+
+]

@@ -1,0 +1,84 @@
+#Betriebsystem
+FROM debian:10.4
+
+RUN apt-get update && \
+    apt-get install -y software-properties-common && \
+    rm -rf /var/lib/apt/lists/*
+
+RUN apt-add-repository 'http://ftp.de.debian.org/debian/ buster/updates main' -y
+
+#Pakete installieren
+RUN apt-get update
+RUN apt-get install apt-utils -y
+RUN apt-get install mc -y
+RUN apt-get install libpng-tools -y
+RUN apt-get install libpng-dev -y
+RUN apt-get install libproj-dev -y
+RUN apt-get install libgeos-dev -y
+
+RUN apt-get install gdal-bin -y
+RUN apt-get install pktools -y
+
+RUN apt-get install netcdf-bin libnetcdf-dev -y
+RUN apt-get install hdf4-tools libhdf4-dev -y
+RUN apt-get install hdf5-tools libhdf5-dev -y
+RUN apt-get install libxml2-dev -y
+RUN apt-get install build-essential -y
+
+RUN apt-get install -y python3-psycopg2 python3-mysqldb python-pysqlite2 python-pyspatialite
+#RUN apt-get install -y python3-pandas
+RUN apt-get install -y python3-numpy
+RUN apt-get install -y python3-simplejson
+RUN apt-get install -y python3-h5py python-gdal python3-gdal python3-scipy
+RUN apt-get install -y python3-statsmodels
+RUN apt-get install -y python3-geopandas
+#RUN apt-get install -y python3-tables
+
+RUN apt-get install saga -y
+
+RUN apt-get install -y mc gcc libc-dev cmake openssh-server
+
+RUN apt-get install python3-pip -y
+
+RUN pip3 install rasterio==1.0.21
+RUN pip3 install flopy==3.3.3
+RUN pip3 install xarray==0.13.0
+RUN pip3 install -U pip
+RUN pip3 install llvmlite==0.34.0
+RUN pip3 install numba==0.42.0
+RUN pip3 install numba-scipy
+RUN pip3 install numba-special
+RUN pip3 install h5netcdf
+RUN pip3 install openpyxl
+RUN pip3 install XlsxWriter
+RUN pip3 install xlrd==1.2.0
+RUN pip3 install pandas==1.2.3
+RUN pip3 install pandas==1.2.3
+
+RUN pip3 install tables==3.6.1
+
+#Packetinstallationsdateien loeschen
+RUN rm -rf /var/lib/apt/lists/*
+
+#GDAL VRT Eintrag in apache2.conf
+#RUN printf "SetEnv GDAL_VRT_ENABLE_PYTHON YES" >> /etc/apache2/apache2.conf
+
+# access via ssh
+#RUN echo 'y' | ssh-keygen -f /etc/ssh/ssh_host_dsa_key -N '' -t dsa
+#RUN echo 'y' | ssh-keygen -f /etc/ssh/ssh_host_rsa_key -N '' -t rsa
+#RUN adduser stefan
+#RUN echo 'akwxs1\nakwxs1\n' | passwd stefan
+#RUN echo 'akwxs1\nakwxs1\n' | passwd root
+#RUN usermod -u 1002 stefan
+#RUN usermod -g 100 stefan
+
+RUN mkdir /var/run/sshd
+RUN sed -i 's/PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
+# SSH login fix. Otherwise user is kicked off after login
+RUN sed 's@session\s*required\s*pam_loginuid.so@session optional pam_loginuid.so@g' -i /etc/pam.d/sshd
+ENV NOTVISIBLE "in users profile"
+RUN echo "export VISIBLE=now" >> /etc/profile
+RUN chmod u+s /bin/su
+EXPOSE 22
+CMD ["/usr/sbin/sshd","-D"]
+

@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+
+  python_service_2023_lfulg_eler:
+    env_file:
+      - .env
+    restart: always
+    build:
+      context: ./
+      dockerfile: Dockerfile_Python
+    #container_name: python_service_2023_lfulg_eler
+    networks:
+      - 2023_lfulg_eler_network
+    volumes:
+      - STB_DATA:/data/
+      - ${STB_SRC_PATH}:/src/
+    expose:
+      - 22
+    #ports:
+    #  - '9777:22'
+
+volumes:
+  STB_DATA:
+    driver_opts:
+      type: cifs
+      o: username=${STB_DATA_USER},password=${STB_DATA_PWD},uid=${STB_DATA_UID},gid=${STB_DATA_GID},vers=3.0
+      device: ${STB_DATA_PATH}
+
+networks:
+  2023_lfulg_eler_network:
+    driver: bridge

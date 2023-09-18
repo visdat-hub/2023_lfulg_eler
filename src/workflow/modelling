@@ -1,0 +1,147 @@
+
+python3 /src/modelling/main.py /src/config/modelling/168/168_wb.config
+python3 /src/modelling/main.py /src/config/modelling/168/168_ba.config
+python3 /src/modelling/main.py /src/config/modelling/168/168_sa.config
+python3 /src/modelling/main.py /src/config/modelling/168/168_pb.config
+python3 /src/modelling/main.py /src/config/modelling/168/168_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/169/169_wb.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_ba.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_se.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_pb.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/170/170_wb.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_ba.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_se.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_pb.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/171/171_wb.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_ba.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_se.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_pb.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/172/172_wb.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_ba.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_se.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_pb.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/173/173_wb.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_ba.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_se.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_pb.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/174/174_wb.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_ba.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_se.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_pb.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/175/175_wb.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_ba.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_se.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_pb.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/176/176_wb.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_ba.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_se.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_pb.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/177/177_wb.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_ba.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_se.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_se.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_pb.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_nb.config
+
+python3 /src/modelling/main.py /src/config/modelling/178/178_wb.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_ba.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_se.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_pb.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_nb.config
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+
+python3 /src/modelling/main.py /src/config/modelling/168/168_wb.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_wb.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_wb.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_wb.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_wb.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_wb.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_wb.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_wb.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_wb.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_wb.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_wb.config
+
+python3 /src/modelling/main.py /src/config/modelling/168/168_ba.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_ba.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_ba.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_ba.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_ba.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_ba.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_ba.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_ba.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_ba.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_ba.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_ba.config
+
+python3 /src/modelling/main.py /src/config/modelling/168/168_se.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_se.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_se.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_se.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_se.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_se.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_se.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_se.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_se.config
+# python3 /src/modelling/main.py /src/config/modelling/177/177_se.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_se.config
+
+python3 /src/modelling/main.py /src/config/modelling/168/168_pb.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_pb.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_pb.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_pb.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_pb.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_pb.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_pb.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_pb.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_pb.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_pb.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_pb.config
+
+python3 /src/modelling/main.py /src/config/modelling/168/168_nb.config
+python3 /src/modelling/main.py /src/config/modelling/169/169_nb.config
+python3 /src/modelling/main.py /src/config/modelling/170/170_nb.config
+python3 /src/modelling/main.py /src/config/modelling/171/171_nb.config
+python3 /src/modelling/main.py /src/config/modelling/172/172_nb.config
+python3 /src/modelling/main.py /src/config/modelling/173/173_nb.config
+python3 /src/modelling/main.py /src/config/modelling/174/174_nb.config
+python3 /src/modelling/main.py /src/config/modelling/175/175_nb.config
+python3 /src/modelling/main.py /src/config/modelling/176/176_nb.config
+python3 /src/modelling/main.py /src/config/modelling/177/177_nb.config
+python3 /src/modelling/main.py /src/config/modelling/178/178_nb.config
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+
+select * from general.sbvf_parameter_ifexits_insert(3,168,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,169,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,170,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,171,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,172,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,173,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,174,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,175,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,176,'/mnt/galfdaten/daten_stb/');
+select * from general.sbvf_parameter_ifexits_insert(3,177,'/mnt/galfdaten/daten_stb/');
+
+
+

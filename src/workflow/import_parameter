@@ -1,0 +1,104 @@
+# copy_parameter
+python3 /src/import/main.py -f /src/config/parameter/copy/1410toEler.config -p copy_parameter
+python3 /src/import/main.py -f /src/config/parameter/copy/137toEler.config -p copy_parameter
+python3 /src/import/main.py -f /src/config/parameter/copy/134toEler.config -p copy_parameter
+python3 /src/import/main.py -f /src/config/parameter/copy/141toEler.config -p copy_parameter
+python3 /src/import/main.py -f /src/config/parameter/copy/156toEler.config -p copy_parameter
+python3 /src/import/main.py -f /src/config/parameter/copy/1410toEler174.config -p copy_parameter
+
+--------------------------------------------------------------------------------------------------------------
+
+Parameter 95 (Saldo) nach Parameter 9500
+Parameter 501 (C-Faktor Kons. BB) nach Parameter 5010
+
+Parameter 47 aus Szenario 168 (Partikelgebundener P-Eintrag) nach Parameter 304 (für Szenario 169,169,170,177,178)
+
+Parameter 74 aus Szenario 168 (Partikelgebundener P-Eintrag) nach Parameter 7400 (für Szenario 169,169,170,177,178)
+
+--------------------------------------------------------------------------------------------------------------
+
+# import_parameter
+
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/171/25_171_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/171/46_171_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/171/47_171_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/171/304_171_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/171/501_171_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/171/520_171_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/171/521_171_3.int32.0.nc.config -p import_parameter
+
+python3 /src/import/main.py -f /src/config/parameter/statistics/171.config -p generate_statistics
+
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/172/25_172_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/172/46_172_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/172/47_172_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/172/304_172_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/172/501_172_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/172/520_172_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/172/521_172_3.int32.0.nc.config -p import_parameter
+
+python3 /src/import/main.py -f /src/config/parameter/statistics/172.config -p generate_statistics
+
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/173/25_173_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/173/46_173_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/173/47_173_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/173/304_173_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/173/501_173_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/173/520_173_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/173/521_173_3.int32.0.nc.config -p import_parameter
+
+python3 /src/import/main.py -f /src/config/parameter/statistics/173.config -p generate_statistics
+
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/174/25_174_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/174/46_174_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/174/47_174_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/174/304_174_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/174/501_174_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/174/520_174_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/174/521_174_3.int32.0.nc.config -p import_parameter
+
+python3 /src/import/main.py -f /src/config/parameter/statistics/174.config -p generate_statistics
+
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/175/25_175_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/175/46_175_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/175/47_175_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/175/304_175_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/175/501_175_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/175/520_175_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/175/521_175_3.int32.0.nc.config -p import_parameter
+
+python3 /src/import/main.py -f /src/config/parameter/statistics/175.config -p generate_statistics
+
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/176/25_176_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/176/46_176_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/176/47_176_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/176/304_176_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/176/501_176_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/176/520_176_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/176/521_176_3.int32.0.nc.config -p import_parameter
+
+python3 /src/import/main.py -f /src/config/parameter/statistics/176.config -p generate_statistics
+
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/171/521_171_3.int32.0.nc.config -p import_parameter
+
+--------------------------------------------------------------------------------------------------------------
+
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/168/521_168_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/169/521_169_3.int32.0.nc.config -p import_parameter
+python3 /src/import/main.py -f /src/config/parameter/import/scenarios/170/521_170_3.int32.0.nc.config -p import_parameter
+
+python3 /src/import/main.py -f /src/config/parameter/statistics/168.config -p generate_statistics
+python3 /src/import/main.py -f /src/config/parameter/statistics/169.config -p generate_statistics
+python3 /src/import/main.py -f /src/config/parameter/statistics/170.config -p generate_statistics
+
+--------------------------------------------------------------------------------------------------------------
+
+
+python3 /src/import/main.py -f /src/config/parameter/statistics/171.config -p generate_statistics
+python3 /src/import/main.py -f /src/config/parameter/statistics/172.config -p generate_statistics
+python3 /src/import/main.py -f /src/config/parameter/statistics/173.config -p generate_statistics
+python3 /src/import/main.py -f /src/config/parameter/statistics/174.config -p generate_statistics
+python3 /src/import/main.py -f /src/config/parameter/statistics/175.config -p generate_statistics
+python3 /src/import/main.py -f /src/config/parameter/statistics/176.config -p generate_statistics
+
+

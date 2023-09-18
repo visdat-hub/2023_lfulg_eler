@@ -1,0 +1,93 @@
+[
+	{
+	"id_sc": 168,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_1_ist",
+	"id_level": 3
+}, {
+	"id_sc": 137,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "bb01_yearly",
+	"model_year": "2018",
+	"id_level": 3
+}, {
+	"id_sc": 141,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "fb01_yearly",
+	"model_year": "2018",
+	"id_level": 3
+},
+	{
+	"id_sc": 169,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_1_50",
+	"id_level": 3
+}, {
+	"id_sc": 170,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_1_100",
+	"id_level": 3
+}, {
+	"id_sc": 171,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_2_ist",
+	"id_level": 3
+}, {
+	"id_sc": 172,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_2_50",
+	"id_level": 3
+}, {
+	"id_sc": 173,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_2_100",
+	"id_level": 3
+}, {
+	"id_sc": 174,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_4_ist",
+	"id_level": 3
+}, {
+	"id_sc": 175,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_4_50",
+	"id_level": 3
+}, {
+	"id_sc": 176,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_4_100",
+	"id_level": 3
+}, {
+	"id_sc": 177,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "al_2_mulch",
+	"id_level": 3
+}, {
+	"id_sc": 178,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "eler",
+	"model_year": "eler_ref",
+	"id_level": 3
+},{
+	"id_sc": 134,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "bb01_yearly",
+	"model_year": "2015",
+	"id_level": 3
+}, {
+	"id_sc": 1410,
+	"model_project_name": "stb_sachsen",
+	"model_scenario_name": "fb01_yearly02",
+	"model_year": "2018",
+	"id_level": 3
+}]
